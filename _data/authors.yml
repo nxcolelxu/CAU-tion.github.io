@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+1unaram:
+  name: "1unaram"
+  bio: "CAUtion Member"
+  avatar: "/assets/images/avatars/1unaram.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:haram620@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/1unaram"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://1unaram.github.io"
