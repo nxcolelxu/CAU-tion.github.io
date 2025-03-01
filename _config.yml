@@ -17,10 +17,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale: "ko-KR"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "CAUtion"
+title: "CAUtion Blog"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "CAUtion"
+name: "CAUtion Blog"
 description: "중앙대학교 정보보안 동아리 CAUtion의 블로그입니다."
 url: https://cau-tion.github.io
 baseurl: # the subpath of your site, e.g. "/blog"

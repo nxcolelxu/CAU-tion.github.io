@@ -6,4 +6,30 @@ search: false
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes";
+
+@font-face {
+	font-family: "BMDOHYEON";
+	src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMDOHYEON.woff")
+		format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+// Title in masthead
+@font-face {
+	font-family: "JalnanGothic";
+	src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/JalnanGothic.woff")
+		format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+// Menu in masthead
+@font-face {
+	font-family: "MaplestoryOTFBold";
+	src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/MaplestoryOTFBold.woff")
+		format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
