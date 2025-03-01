@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cau-tion.github.io/sitemap.xml
