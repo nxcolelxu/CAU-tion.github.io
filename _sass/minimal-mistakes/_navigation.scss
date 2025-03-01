@@ -511,11 +511,13 @@
 	box-shadow: $box-shadow;
 
 	.nav__title {
-		color: #fff;
-		font-size: $type-size-6;
-		background: $primary-color;
+		font-size: $type-size-7;
 		border-start-start-radius: $border-radius;
 		border-start-end-radius: $border-radius;
+		color: white;
+		background-color: $signature-color;
+		// color: #fff;
+		// background: $primary-color;
 	}
 
 	// Scrollspy marks toc items as .active when they are in focus
@@ -529,7 +531,7 @@
 	padding: 0;
 	width: 100%;
 	list-style: none;
-	font-size: $type-size-6;
+	font-size: $type-size-8;
 
 	@include breakpoint($large) {
 		font-size: $type-size-7;
