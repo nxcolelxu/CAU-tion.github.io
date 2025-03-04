@@ -1,11 +1,12 @@
 # CAUtion Blog
 
 이곳은 CAUtion 멤버들이 자유롭게 포스팅할 수 있는 Github 블로그 Repository 입니다😊
+
 [🔗Blog URL] [cau-tion.github.io](https://cau-tion.github.io)
 
 <br>
 
-아래의 가이드를 참고하여 포스팅 해보세요!
+아래의 가이드를 참고하여 포스팅 해보세요
 
 <br>
 
