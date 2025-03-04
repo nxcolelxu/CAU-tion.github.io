@@ -12,7 +12,7 @@ jobs:
     permissions:
       pull-requests: write
     runs-on: ubuntu-latest
-    if false
+    if: false
     # if: "contains(github.event.pull_request.body, 'by deleting this comment block') || github.event.pull_request.body == ''"
     steps:
       - uses: actions-ecosystem/action-add-labels@v1
