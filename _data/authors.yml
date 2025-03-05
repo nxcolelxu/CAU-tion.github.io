@@ -3,7 +3,7 @@
 1unaram:
   name: "1unaram"
   bio: "CAUtion Member"
-  avatar: "/assets/images/avatars/1unaram.png"
+  avatar: "/assets/img/avatars/1unaram.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

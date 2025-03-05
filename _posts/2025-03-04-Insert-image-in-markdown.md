@@ -27,7 +27,7 @@ last_modified_at: 2025-03-04
     [예시]
 
     ```markdown
-    ![CAUtion_logo_mint](/assets/images/cau-tion-logo-mint.png)
+    ![CAUtion_logo_mint](/assets/img/cau-tion-logo-mint.png)
 
     ![CAUtion_logo_white](https://cau-tion.com/logo_white.png)
     ```

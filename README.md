@@ -30,7 +30,7 @@
 
 **2) 프로필 이미지 등록**
 
-`/assets/images/avatar/{Nickname 제목의 이미지 파일}`
+`/assets/img/avatar/{Nickname 제목의 이미지 파일}`
 
 위의 경로에 등록하고자 하는 이미지 파일 추가
 
@@ -74,10 +74,10 @@ front matter 아래부터 블로그 본문 작성. markdown 및 kramdown 형식�
 
 <br>
 
-> ### 💡 **Tip**
+> ### 💡 **이미지 첨부 방식**
 >
-> -   [Markdown에서 이미지 첨부 using Github issue](https://cau-tion.github.io/etc/Insert-image-in-markdown/)
-> -   [Notice 사용팁](https://ansohxxn.github.io/blog/notice/)
+> 1. `/_posts/img/{Nickname-post_title}` 위치에 파일명 준수하여 이미지 저장 후 참조하여 사용
+> 2. [Markdown에서 이미지 첨부 using Github issue](https://cau-tion.github.io/etc/Insert-image-in-markdown/)
 
 <br>
 
