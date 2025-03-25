@@ -14,3 +14,18 @@
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://1unaram.github.io"
+
+hyungin0505:
+  name: "hyungin0505"
+  bio: "CAUtion Member"
+  avatar: "/assets/img/avatars/hyungin0505.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hyungin0505@naver.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hyungin0505"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://hyungin0505.tistory.com"
