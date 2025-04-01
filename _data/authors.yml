@@ -47,3 +47,18 @@ kredsya:
     - label: "Chess.com"
       icon: "fas fa-fw fa-chess"
       url: "https://www.chess.com/member/kredsya"
+
+nxcolelxu:
+  name: "nxcolelxu"
+  bio: "CAUtion 7th Member"
+  avatar: "/assets/img/avatars/1unaram.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nicoleliu423@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nxcolelxu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nxcolelxu.github.io"
