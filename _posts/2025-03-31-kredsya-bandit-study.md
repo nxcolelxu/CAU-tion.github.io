@@ -10,7 +10,7 @@ date: 2025-03-31
 last_modified_at: 2025-03-31
 ---
 
-# Level 0 ~ 4
+# Level 0 → Level 4
 
 ## Level 0
 
@@ -46,7 +46,7 @@ bandit0@bandit.labs.overthewire.org's password: [<- 여기에 bandit0 입력]
 $ ssh -p2220 bandit0@bandit.labs.overthewire.org
 ```
 
-## Level 0 $\rightarrow$ Level 1
+## Level 0 → Level 1
 
 ### Goal
 
@@ -80,7 +80,7 @@ The password you are looking for is: ********************************
 
 `ll`은 `ls -alF`의 약어로 디렉토리 내용을 보기 쉽게 만들어준다.
 
-## Level 1 $\rightarrow$ Level 2
+## Level 1 → Level 2
 
 ### Goal
 
@@ -99,7 +99,7 @@ bandit1@bandit:~$ cat ./-
 
 `.`는 현재 디렉토리를 의미한다. 그래서 `./-`는 `/home/bandit1/-`와 같은 표현이다.
 
-## Level 2 $\rightarrow$ Level 3
+## Level 2 → Level 3
 
 ### Goal
 
@@ -124,7 +124,7 @@ bandit2@bandit:~$ cat spaces\ in\ this\ filename
 
 `\`는 escape character, 제어 문자로 보통 문자 출력을 제어한다. 그 예시로 `\n` line feed, `\r` carriage return 등이 있는데 문법과 겹쳐 출력할 수 없는 일부 특수문자를 출력하기 위해서 사용되기도 한다. `\"` 큰 따옴표 출력이 그 예시이고 공백도 출력할 수 있다.
 
-## Level 3 $\rightarrow$ Level 4
+## Level 3 → Level 4
 
 ### Goal
 
