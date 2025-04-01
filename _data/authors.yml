@@ -29,3 +29,21 @@ hyungin0505:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://hyungin0505.tistory.com"
+
+kredsya:
+  name: "kredsya"
+  bio: "CAUtion 0th Member"
+  avatar: "/assets/img/avatars/kredsya.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:do901328@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kredsya"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kredsya.notion.site"
+    - label: "Chess.com"
+      icon: "fas fa-fw fa-chess"
+      url: "https://www.chess.com/member/kredsya"
